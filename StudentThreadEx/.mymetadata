@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="StudentThreadEx"
+  id="myeclipse.1325806332472"
+  context-root="/StudentThreadEx"
+  j2ee-spec="5.0"
+  archive="StudentThreadEx.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
