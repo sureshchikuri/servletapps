@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="BasicServletApp"
+  id="myeclipse.1389509696208"
+  context-root="/BasicServletApp"
+  j2ee-spec="5.0"
+  archive="BasicServletApp.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

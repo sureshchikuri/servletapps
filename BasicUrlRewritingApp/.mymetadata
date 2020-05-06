@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="BasicUrlRewritingApp"
+  id="myeclipse.1389586221848"
+  context-root="/BasicUrlRewritingApp"
+  j2ee-spec="1.4"
+  archive="BasicUrlRewritingApp.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
